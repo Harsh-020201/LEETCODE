@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Harsh-020201/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Harsh-020201/LEETCODE/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Harsh-020201/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-020201/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
