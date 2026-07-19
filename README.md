@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Harsh-020201/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harsh-020201/LEETCODE/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Harsh-020201/LEETCODE/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Harsh-020201/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-020201/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsh-020201/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Harsh-020201/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Harsh-020201/LEETCODE/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsh-020201/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Harsh-020201/LEETCODE/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-020201/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
