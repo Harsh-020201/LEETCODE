@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Harsh-020201/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harsh-020201/LEETCODE/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Harsh-020201/LEETCODE/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Harsh-020201/LEETCODE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Harsh-020201/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-020201/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsh-020201/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Harsh-020201/LEETCODE/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Harsh-020201/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harsh-020201/LEETCODE/tree/master/0283-move-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Harsh-020201/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-020201/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -83,4 +85,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Harsh-020201/LEETCODE/tree/master/1260-shift-2d-grid) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Harsh-020201/LEETCODE/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Harsh-020201/LEETCODE/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Harsh-020201/LEETCODE/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Harsh-020201/LEETCODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
