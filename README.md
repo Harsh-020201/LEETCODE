@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Harsh-020201/LEETCODE/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-020201/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Harsh-020201/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Array
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Harsh-020201/LEETCODE/tree/master/0268-missing-number) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Harsh-020201/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
