@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Harsh-020201/LEETCODE/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-020201/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Harsh-020201/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Harsh-020201/LEETCODE/tree/master/0283-move-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Harsh-020201/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-020201/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Harsh-020201/LEETCODE/tree/master/0268-missing-number) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Harsh-020201/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
