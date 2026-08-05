@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Harsh-020201/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh-020201/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Harsh-020201/LEETCODE/tree/master/1470-shuffle-the-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harsh-020201/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh-020201/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/Harsh-020201/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-020201/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
