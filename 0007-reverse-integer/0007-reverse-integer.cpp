@@ -2,20 +2,21 @@
 using namespace std;
 class Solution {
 public:
-    int reverse(int x) {
-        long int rev_num=0;
-        long int last_dig;
-        while(x!=0){
-            last_dig=x%10;
-            if( rev_num > INT_MAX /10 ||(rev_num == INT_MAX /10 && last_dig >7)){
+int reverse(int n){
+    long int revNum=0;
+    long int lastDigit;
+    while(n !=0){
+        lastDigit=n%10;
+        if( revNum > INT_MAX /10 ||(revNum == INT_MAX /10 && lastDigit >7)){
                 return 0;
             }
-            if( rev_num < INT_MIN /10 ||(rev_num == INT_MIN /10 && last_dig <-8)){
+            if( revNum < INT_MIN /10 ||(revNum == INT_MIN /10 && lastDigit <-8)){
                 return 0;
             }
-            rev_num=(rev_num*10)+last_dig;
-            x=x/10;
-        }
-        return rev_num;
+        revNum = (revNum*10) + lastDigit;
+        n=n/10;
     }
+     return revNum;
+}
+ 
 };
