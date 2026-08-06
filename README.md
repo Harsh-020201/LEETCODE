@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Harsh-020201/LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Harsh-020201/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Harsh-020201/LEETCODE/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/Harsh-020201/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsh-020201/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Harsh-020201/LEETCODE/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Harsh-020201/LEETCODE/tree/master/1260-shift-2d-grid) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Harsh-020201/LEETCODE/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Harsh-020201/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Harsh-020201/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -184,5 +186,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Harsh-020201/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh-020201/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
