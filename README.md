@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Harsh-020201/LEETCODE/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-020201/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Harsh-020201/LEETCODE/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harsh-020201/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -92,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-020201/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Harsh-020201/LEETCODE/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 ## Greedy
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-020201/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh-020201/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Harsh-020201/LEETCODE/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harsh-020201/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-020201/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Harsh-020201/LEETCODE/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 ## Depth-First Search
 |  |
 | ------- |
