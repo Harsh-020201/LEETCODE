@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Harsh-020201/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsh-020201/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Harsh-020201/LEETCODE/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Harsh-020201/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-020201/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harsh-020201/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Harsh-020201/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Harsh-020201/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Harsh-020201/LEETCODE/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Harsh-020201/LEETCODE/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harsh-020201/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Harsh-020201/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsh-020201/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Harsh-020201/LEETCODE/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Harsh-020201/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Harsh-020201/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh-020201/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Harsh-020201/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Harsh-020201/LEETCODE/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Harsh-020201/LEETCODE/tree/master/1406-stone-game-iii) |
 ## Sliding Window
 |  |
@@ -201,9 +205,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh-020201/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh-020201/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Backtracking
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
