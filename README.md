@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Harsh-020201/LEETCODE/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Harsh-020201/LEETCODE/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Harsh-020201/LEETCODE/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-020201/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Harsh-020201/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harsh-020201/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Harsh-020201/LEETCODE/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Harsh-020201/LEETCODE/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Harsh-020201/LEETCODE/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harsh-020201/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Harsh-020201/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh-020201/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Harsh-020201/LEETCODE/tree/master/1470-shuffle-the-array) |
+| [1563-stone-game-v](https://github.com/Harsh-020201/LEETCODE/tree/master/1563-stone-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harsh-020201/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh-020201/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/Harsh-020201/LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Harsh-020201/LEETCODE/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Harsh-020201/LEETCODE/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Harsh-020201/LEETCODE/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Harsh-020201/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
