@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Harsh-020201/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Harsh-020201/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Harsh-020201/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Harsh-020201/LEETCODE/tree/master/0877-stone-game) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Harsh-020201/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Harsh-020201/LEETCODE/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-020201/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Harsh-020201/LEETCODE/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
