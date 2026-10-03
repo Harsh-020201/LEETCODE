@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harsh-020201/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Harsh-020201/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Harsh-020201/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsh-020201/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Harsh-020201/LEETCODE/tree/master/0486-predict-the-winner) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harsh-020201/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Harsh-020201/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Harsh-020201/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Harsh-020201/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Harsh-020201/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/Harsh-020201/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harsh-020201/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Harsh-020201/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-020201/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Harsh-020201/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsh-020201/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harsh-020201/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Harsh-020201/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Harsh-020201/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Harsh-020201/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsh-020201/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh-020201/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
